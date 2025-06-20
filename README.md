@@ -1,6 +1,6 @@
 # 🐾 Vet Clinic Management App
 
-A fully functional veterinary clinic management system built with React and Vite. This frontend-only application includes all core features implemented at the UI level, providing a complete user experience without a backend. Designed for efficiency, clarity, and usability, this app helps veterinary staff manage appointments, patients, and treatment statuses with ease.
+A functional veterinary clinic management system built with React and Vite. This frontend-only application includes all core features implemented at the UI level, providing a complete user experience without a backend. Designed for efficiency, clarity, and usability, this app helps veterinary staff manage appointments, patients, and treatment statuses with ease.
 
 ---
 
